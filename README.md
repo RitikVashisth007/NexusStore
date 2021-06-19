@@ -1,8 +1,11 @@
 # NexusStore
-
+<br />
 This project is part of my Practice project. 
- React + Django Rest Backend 
+<br />
+ #React + Django Rest Backend 
+ <br />
  https://nexusstore.netlify.app/
+ <br />
  reload 2 time backend server is on heroku so it may be asleep 
  
 
